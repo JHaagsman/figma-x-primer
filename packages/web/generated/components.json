@@ -25386,21 +25386,6 @@
       }
     },
     {
-      "id": "toolbar_responsive_type_dropdown_default_closed",
-      "name": "Toolbar/Responsive/Type dropdown/Default (closed)",
-      "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=1597%3A123",
-      "status": "STABLE",
-      "type": "COMPONENT",
-      "properties": [],
-      "thumbnails": [],
-      "createdAt": "2020-06-25T23:59:08.662Z",
-      "updatedAt": "2025-03-07T16:26:30.531Z",
-      "user": {
-        "imgUrl": "https://s3-alpha.figma.com/profile/3ad8fe5b-cc0b-445d-89b5-badf5cd1b9cc",
-        "handle": "Ash Guillaume"
-      }
-    },
-    {
       "id": "caret",
       "name": "Caret",
       "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=11747%3A38508",
@@ -25410,21 +25395,6 @@
       "thumbnails": [],
       "createdAt": "2022-01-20T09:08:30.702Z",
       "updatedAt": "2025-07-28T09:52:44.256Z",
-      "user": {
-        "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
-        "handle": "Lukas Oppermann"
-      }
-    },
-    {
-      "id": "skeleton_box",
-      "name": "Skeleton/Box",
-      "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=36445%3A82",
-      "status": "STABLE",
-      "type": "COMPONENT",
-      "properties": [],
-      "thumbnails": [],
-      "createdAt": "2024-09-02T10:46:40.698Z",
-      "updatedAt": "2024-12-18T21:18:56.702Z",
       "user": {
         "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
         "handle": "Lukas Oppermann"
@@ -26173,6 +26143,36 @@
       "user": {
         "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
         "handle": "Lukas Oppermann"
+      }
+    },
+    {
+      "id": "skeleton_box",
+      "name": "Skeleton/Box",
+      "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=36445%3A82",
+      "status": "STABLE",
+      "type": "COMPONENT",
+      "properties": [],
+      "thumbnails": [],
+      "createdAt": "2024-09-02T10:46:40.698Z",
+      "updatedAt": "2025-08-01T14:50:55.966Z",
+      "user": {
+        "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
+        "handle": "Lukas Oppermann"
+      }
+    },
+    {
+      "id": "toolbar_responsive_type_dropdown_default_closed",
+      "name": "Toolbar/Responsive/Type dropdown/Default (closed)",
+      "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=1597%3A123",
+      "status": "STABLE",
+      "type": "COMPONENT",
+      "properties": [],
+      "thumbnails": [],
+      "createdAt": "2020-06-25T23:59:08.662Z",
+      "updatedAt": "2025-08-01T16:18:03.108Z",
+      "user": {
+        "imgUrl": "https://s3-alpha.figma.com/profile/3ad8fe5b-cc0b-445d-89b5-badf5cd1b9cc",
+        "handle": "Ash Guillaume"
       }
     }
   ]
